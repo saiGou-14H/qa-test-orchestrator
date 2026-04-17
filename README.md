@@ -190,5 +190,4 @@ Use $qa-test-orchestrator to analyze this project for QA, probe pages with agent
 
 - Skill 负责“如何组织测试与交付”，不内置项目特定账号、环境地址和业务数据
 - 是否启用子 Agent，受当前会话能力和用户要求约束
-- 是否能直接推送 GitHub，取决于本地 Git 环境、目标仓库和远端权限
 - 当前版本只补规范和目录约定，不额外提供脚手架生成器或模板代码
