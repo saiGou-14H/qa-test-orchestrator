@@ -1,4 +1,4 @@
 interface:
   display_name: "QA Test Orchestrator"
-  short_description: "项目级 QA 测试编排：按角色拆分回归/冒烟/E2E/CI，子 agent 并行、截图归档、图文报告。"
-  default_prompt: "Use $qa-test-orchestrator to analyze this project for QA, split smoke, functional, regression, E2E, SDET, and CI tasks by role, run coverage with subagents, store screenshots by role, create missing test accounts if needed, and produce illustrated Markdown reports and user manuals."
+  short_description: "项目级 QA 测试编排：Playwright + agent-browser 联动、按功能点沉淀 Python 复测脚本、截图归档与图文报告。"
+  default_prompt: "Use $qa-test-orchestrator to analyze this project for QA, probe pages with agent-browser, implement stable feature retest flows with Playwright, generate Python retest scripts under artifacts/automation, store screenshots by role and feature, create missing test accounts if needed, and produce illustrated Markdown reports and user manuals."
