@@ -1,6 +1,6 @@
 ---
 name: qa-test-orchestrator
-description: 面向测试工程师 / QA 的项目级测试编排技能，适用于 Codex CLI、通用 CLI agent、子 agent 和多 agent 协作测试场景。Use when the agent needs to analyze a project, identify runnable entrypoints, split testing tasks by QA role, execute functional/regression/automation/SDET/CI checks, create missing test accounts, delegate independent flows to subagents, save step-by-step screenshots, and produce illustrated Markdown test reports or user manuals.
+description: 面向测试工程师 / QA / Tester / SDET 的项目级测试编排技能，适用于 Codex CLI、通用 CLI agent、子 agent 和多 agent 协作测试场景。Use when the agent needs to analyze a project for testing, identify runnable entrypoints, design or split test tasks by QA role, execute smoke testing, functional testing, regression testing, E2E testing, automation testing, SDET checks, or CI quality gates, create missing test accounts, capture step-by-step screenshots, organize screenshots by role, and generate illustrated Markdown test reports, bug reproduction records, acceptance checklists, operation guides, or user manuals. Trigger on requests such as 全量测试, 回归测试, 冒烟测试, 提测验证, 图文测试报告, 用户手册, 测试步骤截图, 子agent并行测试, 自动化测试, E2E, Playwright, Jest, CI排查, 质量门禁, or QA orchestration.
 ---
 
 # QA Test Orchestrator
@@ -152,5 +152,4 @@ description: 面向测试工程师 / QA 的项目级测试编排技能，适用于 Codex CLI、通用 CL
 
 - 读取 `references/role-matrix.md`：当需要把测试任务映射到功能测试、自动化测试、SDET、CI 质量平台角色时使用。
 - 读取 `references/deliverables.md`：当需要统一截图命名、目录结构、Markdown 图文报告结构时使用。
-
 
