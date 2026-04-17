@@ -1,0 +1,4 @@
+interface:
+  display_name: "QA Test Orchestrator"
+  short_description: "按岗位拆分测试任务，使用子 agent 执行全量测试、截图留痕与图文报告。"
+  default_prompt: "Use $qa-test-orchestrator to analyze this project, split testing by QA role, run end-to-end coverage with subagents, save screenshots for each step, and produce illustrated test and user docs."
