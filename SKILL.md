@@ -1,6 +1,6 @@
 ---
 name: qa-test-orchestrator
-description: 面向测试工程师 / QA / Tester / SDET 的项目级测试编排 skill。Use when the agent needs to analyze a runnable project for QA, discover runtime owners or roles and business domains, execute smoke, regression, E2E, or approval-flow checks with Playwright + agent-browser, save screenshots and Python retest scripts under owner-and-domain artifact paths, and produce illustrated Markdown reports, bug reproductions, or user guides. Trigger on requests such as 全量联测, 按责任人联测, 回归测试, 冒烟验证, 业务链路验证, 图文测试报告, 用户手册, Playwright, agent-browser, Python 复测脚本, 截图归档, role-based testing, or QA orchestration.
+description: 面向测试工程师 / QA / Tester / SDET 的项目级测试编排 skill。Use when the agent needs to analyze a runnable project for QA, discover runtime owners or roles and business domains, execute smoke, regression, E2E, or approval-flow checks with Playwright + agent-browser, save screenshots and Python retest scripts under owner-and-domain artifact paths, and produce illustrated Markdown reports, bug reproductions, or user guides. Trigger on requests such as 全量联测, 按责任人联测, 回归测试, 业务链路验证, 图文测试报告, 用户手册, Playwright, agent-browser, Python 复测脚本, 截图归档, role-based testing, or QA orchestration.
 ---
 
 # QA Test Orchestrator
