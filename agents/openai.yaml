@@ -1,4 +1,4 @@
 interface:
   display_name: "QA Test Orchestrator"
-  short_description: "项目级 QA 测试编排：Playwright + agent-browser 联动、按功能点沉淀 Python 复测脚本、截图归档与图文报告。"
-  default_prompt: "Use $qa-test-orchestrator to analyze this project for QA, probe pages with agent-browser, implement stable feature retest flows with Playwright, generate Python retest scripts under artifacts/automation, store screenshots by role and feature, create missing test accounts if needed, and produce illustrated Markdown reports and user manuals."
+  short_description: "动态责任人与业务域驱动的项目级 QA 测试编排与证据沉淀。"
+  default_prompt: "Use $qa-test-orchestrator to discover runtime owners and business domains, drive Playwright + agent-browser testing, and save scripts and screenshots under artifacts by owner and domain."
